@@ -9,8 +9,8 @@
   
 **:mailbox:  Reach me out!**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Olena_Vlasenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-vlass/)&nbsp;&nbsp;&nbsp;
-[![Mail Badge](https://img.shields.io/badge/-Olena_Vlasenko-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:olefelena@gmail.com)&nbsp;&nbsp;&nbsp;
+<!--  [![Linkedin Badge](https://img.shields.io/badge/-Olena_Vlasenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-vlass/)&nbsp;&nbsp;&nbsp;
+[![Mail Badge](https://img.shields.io/badge/-Olena_Vlasenko-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:olefelena@gmail.com)&nbsp;&nbsp;&nbsp; > -->
 
 ### 👨🏻‍💻 My stack and tools
 
