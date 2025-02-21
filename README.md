@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning something new and enjoy what I do
 - 🎓 I've hands-on experience building React applications
-- 💼 I'm opened for new job opportunities and consider any with pleasure
+- 💼 I'm opened for interesting job opportunities and consider any with pleasure
   
-**:mailbox:  Reach me out!**
+<!--  **:mailbox:  Reach me out!**
 
-<!--  [![Linkedin Badge](https://img.shields.io/badge/-Olena_Vlasenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-vlass/)&nbsp;&nbsp;&nbsp;
+ [![Linkedin Badge](https://img.shields.io/badge/-Olena_Vlasenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-vlass/)&nbsp;&nbsp;&nbsp;
 [![Mail Badge](https://img.shields.io/badge/-Olena_Vlasenko-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:olefelena@gmail.com)&nbsp;&nbsp;&nbsp; > -->
 
 ### 👨🏻‍💻 My stack and tools
